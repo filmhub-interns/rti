@@ -51,6 +51,7 @@ export const ShowHome = ({ id = 1 }) => {
             </HStack>
             <Box
               p={7}
+              maxWidth={"100%"}
               panelSize={"lg"}
               borderRadius={"lg"}
               border={"1px solid"}
